@@ -1,0 +1,151 @@
+Name: Alix You-Freak
+Nature:
+Demeanor:
+Concept: A young Rodens Seer who grew up in the Umbra
+
+Type: Ratkin
+Tribe:
+    Alias: Plague
+    Type:
+Breed: Rodens
+Auspice:
+    Alias: Aspect
+    Type: Shadow Seer
+Rank: 2
+
+Group: skid-row
+
+Born:
+Changed:
+
+Description:
+
+History: '../data/backstory/alix.md'
+
+Attributes:
+    Strength: 2
+    Dexterity: 3
+    Stamina: 3
+
+    Charisma: 3
+    Manipulation: 2
+    Appearance: 1
+
+    Perception: 4
+    Intelligence: 3
+    Wits: 3
+
+Abilities:
+    Talents:
+        Alertness: 1
+        Athletics: 2
+        Brawl: 2
+        Empathy: 2
+        Expression:
+        Intimidation:
+        Leadership:
+        Primal-Urge: 3
+        Streetwise: 1
+        Subterfuge: 2
+
+    Skills:
+        Animal Ken:
+        Crafts:
+            Type:
+            Value:
+        Drive:
+        Etiquette:
+        Firearms:
+        Larceny:
+        Melee:
+        Performance:
+            Type: Dance
+            Value: 1
+        Stealth: 2
+        Survival: 3
+
+    Knowledges:
+        Academics:
+        Computer:
+        Enigmas: 3
+        Investigation:
+        Law:
+        Medicine: 1
+        Occult: 3
+        Rituals: 2
+        Science:
+        Technology:
+
+Backgrounds:
+    Rites:
+        Value: 3
+
+    Spirit Network:
+        Value: 3
+        Items:
+
+    Contacts:
+        Value: 1
+        Items:
+            - Homeless
+
+    Freak Factor:
+        Value: 5
+        Items:
+            - -2 Difficulty stepping sideways
+
+Gifts:
+    - Spirit Speech
+    - Absolute Balance (Rodens)
+    - Rat Mother's Touch (Seer)
+    - Cloak of Shadows (Ratkin)
+
+Rites:
+    -
+        Name: Dedication Rite
+        Level: 1
+    -
+        Name: Rite of Binding
+        Level: 1
+    -
+        Name: Spirit Awakening
+        Level: 1
+    -
+        Name: Rite of the Cardboard Palace
+        Level: 1
+    -
+        Name: Rite of the Bolthole
+        Level: 1
+    -
+        Name: Rite of Artifice Dedication
+        Level: 1
+    -
+        Name: Rite of Crashspace
+        Level: 2
+    -
+        Name: Rite of Summoning
+        Level: 2
+
+Rage: 3
+Gnosis: 5
+Willpower: 5
+
+Renown:
+    -
+        Type: Cunning
+        Permanent: 2
+        Temporary: 8
+    -
+        Type: Infamy
+        Permanent: 4
+        Temporary: 2
+    -
+        Type: Obligation
+        Permanent: 1
+        Temporary: 6
+
+Merits:
+    - Supporter 2
+
+Flaws:
+    - Short 1

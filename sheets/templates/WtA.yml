@@ -1,0 +1,112 @@
+Name:
+Nature:
+Demeanor:
+Concept:
+
+Type:
+Tribe:
+    Alias:
+    Type:
+Breed:
+Auspice:
+    Alias:
+    Type:
+Rank:
+
+Group:
+
+Born:
+Changed:
+
+Description:
+
+History:
+
+Attributes:
+    Strength:
+    Dexterity:
+    Stamina:
+
+    Charisma:
+    Manipulation:
+    Appearance:
+
+    Perception:
+    Intelligence:
+    Wits:
+
+Abilities:
+    Talents:
+        Alertness:
+        Athletics:
+        Brawl:
+        Empathy:
+        Expression:
+        Intimidation:
+        Leadership:
+        Primal-Urge:
+        Streetwise:
+        Subterfuge:
+        Other:
+            -
+                Name:
+                Value:
+
+    Skills:
+        Animal Ken:
+        Crafts:
+            Type:
+            Value:
+        Drive:
+        Etiquette:
+        Firearms:
+        Larceny:
+        Melee:
+        Performance:
+            Type:
+            Value:
+        Stealth:
+        Survival:
+
+    Knowledges:
+        Academics:
+        Computer:
+        Enigmas:
+        Investigation:
+        Law:
+        Medicine:
+        Occult:
+        Rituals:
+        Science:
+        Technology:
+
+Backgrounds:
+    Contacts:
+        Value:
+        Items:
+            -
+
+
+Gifts:
+    -
+
+Rites:
+    -
+        Name:
+        Level:
+
+Rage:
+Gnosis:
+Willpower:
+
+Renown:
+    -
+        Type:
+        Permanent:
+        Temporary:
+
+Merits:
+    -
+
+Flaws:
+    -
